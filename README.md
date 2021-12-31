@@ -9,3 +9,5 @@ The project is not complete, but I have the following benchmarks in mind to work
 3. Create a title generator: Create another similar model for the title of the article
 4. Create a website: Build a website to host the articles
 
+
+I have included the text documents that the model was originally trained on
